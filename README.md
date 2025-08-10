@@ -2,11 +2,6 @@
 <h1 align="center">👋 Olá, eu sou Enrico Nogueira Elorza!</h1>
 <h3 align="center">Estudante | UniFil | Londrina, Paraná, Brasil</h3>
 
-<!-- GIF ou Imagem de destaque opcional -->
-<p align="center">
-  <img src="https://media.giphy.com/media/YOUR_GIF_LINK/giphy.gif" width="400"/>
-</p>
-
 ---
 
 ## 🧑‍💻 Sobre mim
