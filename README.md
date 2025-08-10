@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Sobre mim
 - 🌱 Estudando: UniFil - Ciência da Computação
-- 📫 Como me encontrar: E-Mail: enrico.elorza@edu.unifil.br
+- 📫 Como me encontrar: enrico.elorza@edu.unifil.br
 
 ---
 
