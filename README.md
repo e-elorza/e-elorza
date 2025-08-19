@@ -10,6 +10,11 @@
 
 ---
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=e-elorza&show_icons=true&theme=dracula" />
+</a>
+
+---
 ## 📫 Contato
   <a href="mailto:enrico.elorza@edu.unifil.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
