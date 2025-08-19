@@ -11,7 +11,7 @@
 ---
 
 <h1>Linguagens mais utilizadas</h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eronponce&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=e-elorza&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 ---
