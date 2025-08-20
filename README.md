@@ -10,7 +10,7 @@
 
 ---
 
-<h1>Linguagens mais utilizadas</h1>
+<h3>Linguagens mais utilizadas</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=e-elorza&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
@@ -19,7 +19,7 @@
   <a href="mailto:enrico.elorza@edu.unifil.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/e-elorza" target="_blank">
+  <a href="https://www.linkedin.com/in/enrico-nogueira-elorza-102aa3379" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8" />
   </a>
   
