@@ -11,8 +11,8 @@
 ---
 
 <h3>Linguagens mais utilizadas</h3>
-<h3>Java</h3>
-<h3>Python</h3>
+<h4>-Java</h4>
+<h4>-Python</h4>
 
 
 ---
