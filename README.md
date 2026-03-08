@@ -11,7 +11,8 @@
 ---
 
 <h3>Linguagens mais utilizadas</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=e-elorza&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<h3>Java</h3>
+<h3>Python</h3>
 
 
 ---
