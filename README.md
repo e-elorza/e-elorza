@@ -12,9 +12,6 @@
 
 <h3>Linguagens mais utilizadas</h3>
 <h4>-Java</h4>
-<h4>-Python</h4>
-
-
 ---
 ## 📫 Contato
   <a href="mailto:enrico.elorza@edu.unifil.br" target="_blank">
