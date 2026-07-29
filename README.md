@@ -45,10 +45,6 @@ Busco constantemente desenvolver projetos que fortaleçam minha base técnica e 
 - Spring Boot
 - APIs REST
 - JPA / Hibernate
-- SQL
-- Testes em Java
-- Clean Code
-- Arquitetura de Software
 
 ---
 
