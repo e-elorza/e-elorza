@@ -2,7 +2,7 @@
 
 Estudante de Ciência da Computação na UniFil (bolsa 100%)
 Atualmente atuo como Trainee em Suporte Técnico Nível 1 na Tata Consultancy Services (TCS) <br>
-Focado em desenvolvimento Backend com Java e Spring Boot.
+
 
 ---
 
@@ -10,7 +10,7 @@ Focado em desenvolvimento Backend com Java e Spring Boot.
 
 Sou estudante de Ciência da Computação na UniFil em Londrina, PR.
 
-Meu principal foco é Java, e atualmente estou aprofundando meus conhecimentos em Spring Boot, APIs REST, SQL e boas práticas de desenvolvimento. Também possuo experiência com Git, GitHub e bancos de dados relacionais.
+Meu principal foco é em desenvolvimento Backend com Java. Atualmente estou aprofundando meus conhecimentos em Spring Boot, APIs REST, SQL e boas práticas de desenvolvimento. Também possuo experiência com Git, GitHub e bancos de dados relacionais.
 
 Busco constantemente desenvolver projetos que fortaleçam minha base técnica e me preparem para atuar como Desenvolvedor Backend.
 
@@ -44,8 +44,7 @@ Busco constantemente desenvolver projetos que fortaleçam minha base técnica e 
 
 - Spring Boot
 - APIs REST
-- JPA / Hibernate
-
+  
 ---
 
 ## Experiência
